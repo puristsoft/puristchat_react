@@ -1,0 +1,25 @@
+{
+  "name": "reactchat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "muicss": "^0.9.35",
+    "react": "^15.6.0",
+    "react-chat-widget": "^2.1.2",
+    "react-chat-window": "^1.0.5",
+    "react-dom": "^15.6.0",
+    "react-emoji-picker": "^1.0.13",
+    "react-global-configuration": "^1.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-websocket": "^2.0.0"
+  }
+}

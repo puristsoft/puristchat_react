@@ -1,0 +1,8 @@
+{
+    "login_url":"http://api.puristchat.com/login",
+    "p_username" : "nancy@xyz.puristit.com",
+    "Authorization": {
+        "username": "4GNUnc5HtItJzv12N8187nO9WbN4oIk",
+        "password": "12341234"
+    }
+}
